@@ -3,6 +3,7 @@
 Welkom in mijn persoonlijke homelab repository. Deze setup is ontworpen om:
 
 - Volledige provisioning en configuratie te automatiseren (met Ansible)
+- Volledige automatisering met Terraform om VMs aan te maken
 - Kubernetes via GitOps te beheren (met ArgoCD)
 - Monitoring & logging te bieden (Prometheus, Grafana, Loki)
 - Remote toegang mogelijk te maken (via Tailscale VPN)
