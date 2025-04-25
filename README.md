@@ -1,4 +1,4 @@
-# 🏡 Homelab Automation – GitOps + Kubernetes + Ansible
+# 🏡 Homelab Automation with Proxmox
 
 Welkom in mijn persoonlijke homelab repository. Deze repository bevat de volledige broncode en documentatie voor mijn persoonlijke homelab. 
 De architectuur is ontworpen met een focus op professionaliteit, automatisering en reproduceerbaarheid.
@@ -27,6 +27,10 @@ Deze setup voorziet in:
 Zie `ansible/`, `cluster/`, en `inventory/` voor het volledige overzicht.
 
 > Coming Soon - Work in Progress.
+
+## ⚙️ Hardware
+
+Om een start te maken met mijn homelab gebruik mijn oude laptop (Asus ZenBook Pro UX550VE)
 
 ---
 
