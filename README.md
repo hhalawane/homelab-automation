@@ -30,7 +30,7 @@ Zie `ansible/`, `cluster/`, en `inventory/` voor het volledige overzicht.
 
 ## ⚙️ Hardware
 
-Om een start te maken met mijn homelab gebruik mijn oude laptop (Asus ZenBook Pro UX550VE)
+Om een start te maken met mijn homelab gebruik mijn oude laptop (Asus ZenBook Pro UX550VE), dit zal ik later uitbreiden met Mini PCs.
 
 ---
 
