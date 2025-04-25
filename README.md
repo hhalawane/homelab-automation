@@ -1,15 +1,17 @@
 # 🏡 Homelab Automation – GitOps + Kubernetes + Ansible
 
-Welkom in mijn persoonlijke homelab repository. Deze setup is ontworpen om:
+Welkom in mijn persoonlijke homelab repository. Deze repository bevat de volledige broncode en documentatie voor mijn persoonlijke homelab. 
+De architectuur is ontworpen met een focus op professionaliteit, automatisering en reproduceerbaarheid.
 
-- Volledige provisioning en configuratie te automatiseren (met Ansible)
-- Volledige automatisering met Terraform om VMs aan te maken
-- Kubernetes via GitOps te beheren (met ArgoCD)
-- Monitoring & logging te bieden (Prometheus, Grafana, Loki)
-- Remote toegang mogelijk te maken (via Tailscale VPN)
-- Secret management veilig te houden in een publieke omgeving
+Deze setup voorziet in:
+- Volledige provisioning en configuratie via Ansible.
+- Automatisering van VM-creatie en infrastructuurbeheer met Terraform.
+- Beheer van Kubernetes-resources door middel van GitOps met ArgoCD.
+- Monitoring en logging met behulp van Prometheus, Grafana en Loki.
+- Veilige en eenvoudige remote toegang via Tailscale VPN.
+- Robuust en veilig secret management, geschikt voor publieke repositories.
 
-💡 Doel: professioneel homelab-platform, volledig reproduceerbaar.
+> 💡 Doelstelling: Een professioneel, schaalbaar en volledig reproduceerbaar homelab-platform creëren dat als portfolio-project kan dienen.
 
 ## 🛠️ Technologieën
 
